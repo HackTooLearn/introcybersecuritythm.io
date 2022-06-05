@@ -14,7 +14,7 @@ It can be scary in the beginning, not knowing where to click, or what do to do n
 
 <br>
 
-### Commands / steps
+## Commands / steps
 
 - click green `start button`
 - read the task contents for Task 1
@@ -34,6 +34,7 @@ It can be scary in the beginning, not knowing where to click, or what do to do n
 - return to fakebank.com homepage by deleting /bank-transfer in the URL & hit enter
 - there is the flag!  _*thm{}*_
 
+<br>
 
 ## _Congratualtions finding your 1st Flag!_
 
