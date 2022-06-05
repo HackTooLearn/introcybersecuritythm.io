@@ -6,32 +6,32 @@ Help with getting started, been showed where to click, or what command to type i
 
 <br>
 
-# Intro to Offensive Security ~ (TryHackMe)
+## Intro to Offensive Security ~ (TryHackMe)
 
 <br>
 
 ### Commands / steps
 
-- click green Start button
+- click green `Start button`
 - read the task contents for Task 1
 - open up terminal
 - type the following command in terminal:
 - `gobuster -u http://fakebank.com -w wordlist.txt dir`
 - see 2 x directories found by gobuster
-- /images & /bank-transfer
-- go to the browser & tack the directories found onto the end to see what appears
-- /images rerurns a 404 not found
-- /bank-transfer returns an admin portal to transfer money / funds
-- transfer from *2276*
-- to account *8881*
-- amount of *$2000*
-- click send money
-- should see -- transfer successful
-- return to fakebank.com homepage -- delete /bank-transfer -- hit enter
+- `/images & /bank-transfer`
+- go to the browser & tack the directories found onto the end to see what appears, one at a time
+- `/images` rerurns a 404 not found
+- `/bank-transfer` returns an admin portal to transfer money
+- transfer from `*2276*`
+- to account `*8881*`
+- amount of `*$2000*`
+- click `Send Money`
+- should see -- =transfer successful=
+- return to fakebank.com homepage by deleting /bank-transfer in the URL & hit enter
 - There is the _FLAG!_
 
 
-# *Congratualtions*
+## _Congratualtions_
 
 
 
