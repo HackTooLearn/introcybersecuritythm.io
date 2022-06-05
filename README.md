@@ -2,7 +2,7 @@
 
 <p> 
   
-It can be scary in the beginning, not knowing where to click, or what do to do next?? Pointing out some of the basics to get you on your path. No harm in copying & pasting, in order to get things completed. Understanding what is going on,  or how it is working is the most important lesson. 
+Getting started can be scary! Not knowing where to click, or what to do next??? Pointing out some of the basics to get you on your path. No harm in copying & pasting, in order to get things completed. Understanding what is going on,  or how it is working is the most important lesson. 
 
 #cybersecurity #tryhackme #walk-throughs #ethicalhacker #penetrationtester
   
@@ -15,7 +15,7 @@ It can be scary in the beginning, not knowing where to click, or what do to do n
 <br>
 
 ### YouTube walk-through video 
-[link]()
+[link](https://youtu.be/-cYmjT0kYNE)
 
 ## Commands / steps
 
@@ -39,7 +39,9 @@ It can be scary in the beginning, not knowing where to click, or what do to do n
 
 <br>
 
-## _Congratualtions finding your 1st Flag!_
+## _Congratualtions finding the Flag!_
+
+#gobuster #fakebank #offensivesecurity 
 
 <br>
 
@@ -52,6 +54,10 @@ It can be scary in the beginning, not knowing where to click, or what do to do n
 ## Intro to Defensive Security ~ (TryHackMe)
 
 <br>
+
+### YouTube walk-through video 
+[link](https://youtu.be/AzWVHeIqzAU)
+
 
 ## Commands / steps for Task 3
 
@@ -74,8 +80,9 @@ It can be scary in the beginning, not knowing where to click, or what do to do n
 
 <br>
 
-## _Congratualtions finding your 2nd Flag!_
+## _Congratualtions finding the Flag!_
 
+#dfir #soc #ransomware #malicious #tryhackme #defensivesecurity
 
 <br>
 
@@ -88,6 +95,10 @@ It can be scary in the beginning, not knowing where to click, or what do to do n
 ## Web Application Security ~ (TryHackMe)
 
 <br>
+
+### YouTube walk-through video 
+[link](https://youtu.be/W7Bwfq7axoE)
+
 
 ## Commands / steps 
 
@@ -107,7 +118,15 @@ It can be scary in the beginning, not knowing where to click, or what do to do n
 
 ## _Congratualtions finding the Flag!_
 
+#webapp #userid #idor 
 
+<br>
+
+<br>
+
+---
+
+<br>
 
 
 
