@@ -8,7 +8,7 @@ Hack To Learn is here to point out some of the basics to get you going on your C
 #cybersecurity #tryhackme #walk-throughs #ethicalhacker #penetrationtester
   
 
-*<h2>MAKE GOOD NOTES</h2>*
+## MAKE GOOD NOTES
 
 <br>
 
