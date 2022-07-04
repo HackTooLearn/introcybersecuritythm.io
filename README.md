@@ -1,22 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-  <title>Hack to Learn</title>
+<h1>Hack to Learn</h1>
   
-  <meta charset="UTF-8" />
-
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-
-  <meta name="description" content="" />
-
-</head>
-  
-<body>
-
 <p> 
   
-Getting started can be scary! Not knowing where to click, or what to do next??? Pointing out some of the basics to get you on your path. No harm in copying & pasting, in order to get things completed. Understanding what is going on,  or how it is working is the most important lesson. 
+Getting started can be scary! Not knowing where to click, or what to type, what about what to do next??? Pointing out some of the basics to get you on your path. No harm in copying & pasting, in order to get things completed. Understanding what is going on, or how it is working is the most important lesson. 
+
+<h2>MAKE GOOD NOTES</h2>
 
 #cybersecurity #tryhackme #walk-throughs #ethicalhacker #penetrationtester
   
@@ -65,7 +53,7 @@ Getting started can be scary! Not knowing where to click, or what to do next??? 
 
 <br>
 
-## Intro to Defensive Security ~ (TryHackMe)
+<h1>## Intro to Defensive Security ~ (TryHackMe)</h1>
 
 <br>
 
@@ -106,7 +94,7 @@ Getting started can be scary! Not knowing where to click, or what to do next??? 
 
 <br>
 
-## Web Application Security ~ (TryHackMe)
+<h1>## Web Application Security ~ (TryHackMe)</h1>
 
 <br>
 
