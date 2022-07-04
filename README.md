@@ -1,23 +1,23 @@
-<h1>Hack to Learn</h1>
+<h1>Hack to Learn</h1> 
+  <h1>Cyber Security Learning</h1>
   
-<p> 
-  
-Getting started can be scary! Not knowing where to click, or what to type, what about what to do next??? Pointing out some of the basics to get you on your path. No harm in copying & pasting, in order to get things completed. Understanding what is going on, or how it is working is the most important lesson. 
+Getting started with TryHackMe can be scary! Not knowing where to click, or what you are allowed to click on, what to type, where to type, what to do next??? 
 
-<h2>MAKE GOOD NOTES</h2>
+Hack To Learn is here to point out some of the basics to get you going on your Cyber Security path. There is absolutely no harm in copying & pasting in order to get things completed. Understanding what is going on, or how it is working is the most important lesson. Break it down into simple steps / stages in order to grasp or understand. There are YouTube video walk throughs available - clicking on the link will take you to that particular Rooms video on YouTube. 
 
 #cybersecurity #tryhackme #walk-throughs #ethicalhacker #penetrationtester
   
-</p>
+
+*<h2>MAKE GOOD NOTES</h2>*
 
 <br>
 
-<h1> Intro to Offensive Security ~ (TryHackMe)</h1>
+<h1>Intro to Offensive Security ~ (TryHackMe)</h1>
 
 <br>
 
 ### YouTube walk-through video 
-[link](https://youtu.be/-cYmjT0kYNE)
+[YouTube video link](https://youtu.be/-cYmjT0kYNE)
 
 ## Commands / steps
 
@@ -53,12 +53,12 @@ Getting started can be scary! Not knowing where to click, or what to type, what 
 
 <br>
 
-<h1>## Intro to Defensive Security ~ (TryHackMe)</h1>
+<h1>Intro to Defensive Security ~ (TryHackMe)</h1>
 
 <br>
 
 ### YouTube walk-through video 
-[link](https://youtu.be/AzWVHeIqzAU)
+[YouTube video link](https://youtu.be/AzWVHeIqzAU)
 
 
 ## Commands / steps for Task 3
@@ -94,12 +94,12 @@ Getting started can be scary! Not knowing where to click, or what to type, what 
 
 <br>
 
-<h1>## Web Application Security ~ (TryHackMe)</h1>
+<h1>Web Application Security ~ (TryHackMe)</h1>
 
 <br>
 
 ### YouTube walk-through video 
-[link](https://youtu.be/W7Bwfq7axoE)
+[YouTube video link](https://youtu.be/W7Bwfq7axoE)
 
 
 ## Commands / steps 
