@@ -75,17 +75,17 @@ Hack To Learn is here to point out some of the basics to get you going on your C
 - read through
 - click next in `blue`
 - read through
-- select which team member -- (for the task you're part of a soc team)
-- soc team lead -- [will griffin]
+- select which team member ---> (for the task you're part of a soc team)
+- soc team lead ---> _will griffin_
 - enter copied `ip address` into firewall block list
 - click block ip address
-- there is the flag!  _`*THM{}*`_ 
+- there is the flag!  _*THM{}*_ 
 
 <br>
 
 ## _Congratualtions finding the Flag!_
 
-#dfir #soc #ransomware #malicious #tryhackme #defensivesecurity
+#hacktolearn #tryhackme #tryhackmeintrotooffensivesecurity #dfir #soc #ransomware #malicious #tryhackme #defensivesecurity
 
 <br>
 
@@ -106,22 +106,22 @@ Hack To Learn is here to point out some of the basics to get you going on your C
 ## Commands / steps 
 
 - click green `view site` button
-- click on planned shipments tab
+- click on the planned shipments tab
 - orders of tyres all mixed up
 - click on `your activity` tab
 - see employee roddy user_id=11 appear
 - go to browser url by `user_id=11` & change this to `user_id=10`
 - hit `enter`
 - continue doing this from 11 - 5
-- number 9 stands out > alya database administrator
-- click the revert button/s under action until all gone
-- there is the flag!  _`*THM{}*`_
+- number *9* stands out ---> _alya database administrator_
+- click on all the revert button/s under action until they all disappear
+- there is the flag!  _*THM{}*_
 
 <br>
 
 ## _Congratualtions finding the Flag!_
 
-#webapp #userid #idor 
+#hacktolearn #tryhackme #webapp #userid #idor 
 
 <br>
 
