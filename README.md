@@ -36,7 +36,7 @@ Hack To Learn is here to point out some of the basics to get you going on your C
 - to account `*8881*`
 - amount of `*$2000*`
 - click `send money`
-- you should see --->  =transfer successful=
+- you should see --->  ==transfer successful==
 - return to fakebank.com homepage by deleting /bank-transfer in the URL & hit enter
 - there is the flag!  _*THM{}*_
 
