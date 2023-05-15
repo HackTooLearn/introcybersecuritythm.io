@@ -1,5 +1,5 @@
 <h1>Hack to Learn</h1> 
-  <h1>Cyber Security Learning</h1>
+  <h2>Cyber Security Learning</h2>
   
 Getting started with TryHackMe can be scary! Not knowing where to click, or what you are allowed to click on, what to type, where to type, what to do next??? 
 
@@ -16,15 +16,16 @@ Hack To Learn is here to point out some of the basics to get you going on your C
 
 <br>
 
-### YouTube walk-through video 
+## YouTube walk-through video 
 [YouTube video link](https://youtu.be/-cYmjT0kYNE)
 
-## Commands / steps
+
+## Commands / Steps
 
 - click green `start button`
 - read the task contents for Task 1
-- open up terminal
-- type the following command in terminal:
+- open up the terminal
+- type the following below command into the terminal
 - `gobuster -u http://fakebank.com -w wordlist.txt dir`
 - gobuster finds 2 x directories
 - `/images & /bank-transfer`
@@ -35,13 +36,13 @@ Hack To Learn is here to point out some of the basics to get you going on your C
 - to account `*8881*`
 - amount of `*$2000*`
 - click `send money`
-- should see -- =transfer successful=
+- you should see --->  =transfer successful=
 - return to fakebank.com homepage by deleting /bank-transfer in the URL & hit enter
 - there is the flag!  _*THM{}*_
 
 <br>
 
-## _Congratualtions finding the Flag!_
+## _Congratualtions on finding the Flag!_
 
 #gobuster #fakebank #offensivesecurity 
 
@@ -57,11 +58,11 @@ Hack To Learn is here to point out some of the basics to get you going on your C
 
 <br>
 
-### YouTube walk-through video 
+## YouTube walk-through video 
 [YouTube video link](https://youtu.be/AzWVHeIqzAU)
 
 
-## Commands / steps for Task 3
+## Commands / Steps for Task 3
 
 - click green `view site` button
 - scroll over the list of alert logs
